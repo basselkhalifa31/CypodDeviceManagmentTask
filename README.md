@@ -27,7 +27,9 @@ Opertor: Can not view the device details page for each device.
 ### Clone the Repository
 
 bash: git clone https://github.com/basselkhalifa31/CypodDeviceManagmentTask.git
+
 then open the folder project using any IDE
+
 ## To run the backend
 bash: cd backend
 bash: npm install
