@@ -19,6 +19,7 @@ The authentication system is implemented using JWT, and the token is stored with
 
 ## Auth Roles
 Admin: Full access to all pages and features.
+
 Opertor: Can not view the device details page for each device.
 
 
@@ -43,6 +44,8 @@ bash: cd src
 
 bash: node app.js
 
+The backend runs on port 3030
+
 ## To run the test cases in the backend
 
 bash: cd src
@@ -60,6 +63,8 @@ bash: npm install
 bash: cd src
 
 bash: npm start
+
+The frontend runs on http://localhost:3000
 
 ## login credentials
 
