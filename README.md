@@ -31,25 +31,40 @@ bash: git clone https://github.com/basselkhalifa31/CypodDeviceManagmentTask.git
 then open the folder project using any IDE
 
 ## To run the backend
+
 bash: cd backend
+
 bash: npm install
+
 (if there is an error happened called  File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system.then use the following command
 bash: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass)
+
 bash: cd src
+
 bash: node app.js
 
 ## To run the test cases in the backend
+
 bash: cd src
+
 bash: npx jest
 
 ## To run the frontend 
+
 open a new terminal
+
 bash: cd frontend
+
 bash: npm install
+
 bash: cd src
+
 bash: npm start
 
-
 ## login credentials
+
 - username:admin1   password:admin123
+  
 - username:operator1   password:operator123
+
+  
