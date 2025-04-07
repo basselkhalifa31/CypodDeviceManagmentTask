@@ -22,6 +22,17 @@ Admin: Full access to all pages and features.
 
 Opertor: Can not view the device details page for each device.
 
+## Design patterns and Architecture
+### Backend: 
+
+- MVC Pattern (Model-View-Controller)
+- Middleware Pattern
+
+### Frontend:
+
+- Component-Based Architecture
+- Container-Presenter (Smart-Dumb) Pattern
+
 
 ## Getting Started
 
