@@ -31,7 +31,7 @@ Opertor: Can not view the device details page for each device.
 ### Frontend:
 
 - Component-Based Architecture
-- Container-Presenter (Smart-Dumb) Pattern
+- Container-Presenter Pattern
 
 
 ## Getting Started
